@@ -49,7 +49,7 @@ public class Categoria implements Serializable{
 	}
 	
 	
-	//hashCode e equal (usa-se para comprar objetos pelo conteudo)
+	//hashCode e equal (usa-se para comparar objetos pelo conteudo)
 	@Override
 	public int hashCode() {
 		final int prime = 31;
